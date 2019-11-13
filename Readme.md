@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Муса Арчаков](https://up.htmlacademy.ru/adaptive/18/user/622313).
-* Наставник: `Неизвестно`.
+* Наставник: [Анатолий Пазюк](https://htmlacademy.ru/profile/id380487).
 
 ---
 
